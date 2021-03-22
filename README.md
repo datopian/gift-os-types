@@ -53,8 +53,7 @@ os-type-descriptions is a json object, and must be in the following format:
   "name of type 2": {
     "displayName": "Type 2",
     "description": "Activity codes or labels that do not adhere to a specific standard"
-  },
-  ...
+  }
 
 }
 ```
@@ -70,7 +69,6 @@ For example:
   "activity:generic:": {
     "displayName": "Non-standard Activity",
     "description": "Activity codes or labels that do not adhere to a specific standard"
-  },
-  ...
+  }
 }
 ```
