@@ -2,7 +2,7 @@
 
 The gift-os-types repository holds column types used in populating the Table Schema page of the Gift-publisher. 
 
-There are two required files, and if not found in this repo, will loaded from the default [os-types](https://github.com/datopian/gift-publisher/blob/main/src/db/os-types.json) and [os-type-descriptions](https://github.com/datopian/gift-publisher/blob/main/src/db/os-type-descriptions.json) shipped with Gift-publisher.
+There are two required files, and if not found in this repo, Table Schema will be loaded from the default [os-types](https://github.com/datopian/gift-publisher/blob/main/src/db/os-types.json) and [os-type-descriptions](https://github.com/datopian/gift-publisher/blob/main/src/db/os-type-descriptions.json) that ships with Gift-publisher.
 
 ### os-types.json
 os-types is a json object, and must be in the following format:
