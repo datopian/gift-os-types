@@ -19,7 +19,6 @@ os-types is a json object, and must be in the following format:
       "dimensionType": "",
       "parent": "",
   }
-  ...
 
 }
 ```
@@ -38,8 +37,7 @@ For example:
         "dataType": "string",
         "dimensionType": "activity",
         "labelfor": "activity:generic:contract:code"
-    },
-    ...
+    }
 }
 ```
 
