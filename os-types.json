@@ -5,11 +5,6 @@
         "parent": "activity:generic:subproject:code",
         "uniqueIdentifier": true
     },
-     "activity:generic:contract:program": {
-        "dataType": "string",
-        "dimensionType": "activity",
-        "parent": "activity:generic:subproject:code"
-    },
     "activity:generic:contract:label": {
         "dataType": "string",
         "dimensionType": "activity",
